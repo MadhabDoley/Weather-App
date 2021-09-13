@@ -1,0 +1,10 @@
+A single-page web application using Streamlit and matplotlib to display weather data visualizations with the usage of OpenWeatherMap APIs.
+
+REQUIRED PYTHON PACKAGES
+streamlit==0.63.1
+matplotlib==3.2.2
+numpy==1.18.5
+DateTime==4.3
+pyowm==3.0.0
+plotly==4.14.3
+boto
